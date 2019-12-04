@@ -1,2 +1,2 @@
-# javascript-turbo
-这个仓库用来总结javascript的魅力
+# 引言
+你知道的越多，你不知道的就越多。
